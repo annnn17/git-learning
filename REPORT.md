@@ -94,7 +94,7 @@
   git checkout -b feature/add-documentation
   git branch
   ```
-  ![Создание новой ветки feature/add-documentation](report/screenshots/task4_checkout_branch.jpg)
+  ![Создание новой ветки feature/add-documentation](report/screenshots/task3_checkout_branch.jpg)
 
 -  Внесены изменения в файл src/main.py (добавлена функция greet_user)
 
