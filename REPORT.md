@@ -57,7 +57,7 @@
   ```bash
   git diff src/main.py
   ```
-  ![Просмотр различий](report/screenshots/git_diff.jpg)
+  ![Просмотр различий](report/screenshots/task2_git_diff.jpg)
 
 -  Зафиксированы изменения новым коммитом
   ```bash
@@ -79,7 +79,7 @@
 
 -  Создан репозиторий на GitHub и отправлен код
   ```bash
-  gh repo create git-learning --source=. --remote=origin --push --private
+  gh repo create git-learning --source=. --remote=origin --push 
   ```
 
 -  Произведены изменения через веб-интерфейс GitHub и получены на локальный компьютер
