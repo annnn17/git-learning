@@ -20,8 +20,11 @@
 
 ```
 git-learning/
-├── README.md (в корне)
-├── REPORT.md (в корне)
+├── README.md
+├── REPORT.md
+├── Ansible practice
+    └── REPORT-task1.md
+    └── screenshots
 ├── src/
 │   └── main.py
 └── report/
