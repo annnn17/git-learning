@@ -23,8 +23,8 @@ git-learning/
 ├── README.md
 ├── REPORT.md
 ├── Ansible practice
-    └── REPORT-task1.md
-    └── screenshots
+│    └── REPORT-task1.md
+│    └── screenshots
 ├── src/
 │   └── main.py
 └── report/
