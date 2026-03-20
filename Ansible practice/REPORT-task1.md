@@ -6,7 +6,7 @@
 
 ![Плейбук в nano](screenshots/nano_ansible.jpeg)
 
-## Запуск плейбука
+## Запуск плейбука 
 
 Запуск командой `ansible-playbook -i inventory.ini playbook.yml`. Все 8 заданий выполнены успешно, финальное сообщение: "Привет, red01! Файл успешно создан."
 
